@@ -1,0 +1,5 @@
+{
+  "name": "Mini SWOT Generator",
+  "description": "Enter a company or idea, and the AI will generate a quick SWOT analysis (Strengths, Weaknesses, Opportunities, Threats).",
+  "requestFramePermissions": []
+}
